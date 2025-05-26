@@ -1,0 +1,10 @@
+{
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "file": "docs/index.md",
+        },
+        {
+            "file": "TODO.md",
+        }
+    ]
+}
